@@ -7,6 +7,7 @@ const Contact = () => {
             <h1 className="subtopic">CONTACT ME</h1>
             <h3>Email : nirawitnaktham.nn@gmail.com</h3>
             <h3>Instagram : @joenrw_</h3>
+            <h3>Tel : 0818547511</h3>
             <Social/>
         </div>
     );
